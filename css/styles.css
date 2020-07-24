@@ -73,7 +73,7 @@ p {
     right: 30%;
 }
 
-@media (max-width:1028px) {
+@media (max-width:991px) {
     .title-image {
         transform: rotate(0);
         position: static;
